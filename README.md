@@ -1,2 +1,1 @@
-LocationSDK
-===========
+Location
